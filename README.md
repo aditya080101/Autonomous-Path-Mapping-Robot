@@ -3,8 +3,6 @@
     
 <h1 align=center> Vision 2.0 </h1>
     
-<h4 align=center><em>Computer Vision based event organised by Robotics Club of IIT (BHU) Varanasi</em></h4><br>
-    
 <p align=center>
     <img align=center src = "media/arena.gif" alt = "Arena" width = "250">
     <img align=center src = "media/husky.gif" alt = "Bot" width = "250"> 
